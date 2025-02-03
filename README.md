@@ -21,20 +21,20 @@ This project is a landing page for a Kickstarter campaign, designed to attract p
    ```
 2. Navigate to the project directory:
 
-   ```cd landing-kickstarter
-
+   ```bash
+   cd landing-kickstarter
    ```
 
 3. Install the dependencies:
 
-   ```npm install
-
+   ```bash
+   npm install
    ```
 
 4. Start the development server:
 
-   ```npm start
-
+   ```bash
+   npm start
    ```
 
 Open your browser and navigate to [http://localhost:8080](http://localhost:8080).
